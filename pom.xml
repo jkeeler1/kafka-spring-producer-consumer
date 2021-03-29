@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>jen.sample</groupId>
-    <artifactId>streams</artifactId>
+    <artifactId>kafka-spring-producer-consumer</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>streams</name>
-    <description>Playing around with streams</description>
+    <name>kafka-spring-producer-consumer</name>
+    <description>Playing around with kafka producer/consumer</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
