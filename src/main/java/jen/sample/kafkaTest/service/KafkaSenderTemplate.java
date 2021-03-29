@@ -1,6 +1,6 @@
-package jen.sample.streams.service;
+package jen.sample.kafkaTest.service;
 
-import jen.sample.streams.domain.Event;
+import jen.sample.kafkaTest.domain.Event;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

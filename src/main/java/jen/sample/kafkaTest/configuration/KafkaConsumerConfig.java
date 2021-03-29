@@ -1,4 +1,4 @@
-package jen.sample.streams.configuration;
+package jen.sample.kafkaTest.configuration;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;

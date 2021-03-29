@@ -1,4 +1,4 @@
-package jen.sample.streams.domain;
+package jen.sample.kafkaTest.domain;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.kafka.common.serialization.Deserializer;

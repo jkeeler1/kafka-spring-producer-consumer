@@ -1,4 +1,4 @@
-package jen.sample.streams.domain;
+package jen.sample.kafkaTest.domain;
 
 import java.io.Serializable;
 import java.util.UUID;

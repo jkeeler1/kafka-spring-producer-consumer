@@ -1,4 +1,4 @@
-package jen.sample.streams;
+package jen.sample.kafkaTest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
